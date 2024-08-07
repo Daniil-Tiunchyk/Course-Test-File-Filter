@@ -12,3 +12,4 @@ public enum DataType {
         return STRING;
     }
 }
+
